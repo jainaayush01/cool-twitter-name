@@ -1,0 +1,23 @@
+{
+  "name": "nameupdaterealtime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "twitter-api-client": "^1.3.8"
+  },
+  "engines": {
+    "node": "14.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Twitter",
+    "Update Profile Name"
+  ],
+  "author": "Aayush Jain",
+  "license": "ISC"
+}
