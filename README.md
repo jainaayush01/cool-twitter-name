@@ -2,7 +2,7 @@
 
 Playing around with Feedhive's [twitter-api-client](https://github.com/FeedHive/twitter-api-client)
 
-![hero](https://i.ibb.co/FXNryG7/Followers.png)
+![hero](./banner.gif)
 
 ## How to setup for your Twitter
 
