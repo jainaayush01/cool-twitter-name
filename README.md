@@ -1,8 +1,15 @@
-# Real time Twitter followers banner
+# Real time Twitter followers in Your Twitter Name
 
 Playing around with Feedhive's [twitter-api-client](https://github.com/FeedHive/twitter-api-client)
 
 ![hero](./banner.gif)
+
+## Why?
+Because whenever you like/retweet a post it may occur that your followers/friends will read the post and also keeps the chill and cool vibe for the other person
+still not satisfied? ask [Jai](https://twitter.com/jai_dewani)
+
+## Future Scope?
+* we can create a banner with the followers count
 
 ## How to setup for your Twitter
 
